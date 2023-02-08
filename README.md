@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vimm0
-- 👀 I’m interested in coding python application.
+- 👀 I’m interested in coding python application since 2016.
 - 📫 How to reach me [Twitter](https://twitter.com/vimm0), [Linkedin](https://www.linkedin.com/in/sandesh-rana-12783611a/)
 
 <!---
