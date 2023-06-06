@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sandesh-rana-12783611a" target="_blank">
+  <a href="https://www.linkedin.com/in/vimm0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/vimm0" target="_blank">
@@ -82,6 +82,11 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=vimm0" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=vimm0" height="150" alt="languages graph"  />
 </div>
+
+[website]: [https://vimm0.github.io/](https://vimm0.github.io/)
+[twitter]: [https://twitter.com/vimm0](https://twitter.com/vimm0)
+[youtube]: [https://www.youtube.com/@nepexgroup](https://www.youtube.com/@nepexgroup)
+[linkedin]: [https://www.linkedin.com/in/vimm0](https://www.linkedin.com/in/vimm0/)
 
 ###
 <!---
