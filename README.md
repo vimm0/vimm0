@@ -16,27 +16,25 @@
 
 ###
 
-<h2 align="left">About me:</h2>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">Full Stack Developer | Pythonista | Programmer | Tech Enthusiast | Learner | Linux Nerd </p>
+
+## 👷 Currently working on
+  - [Web to Desktop](https://github.com/vimm0/web-desktop)
 
 ###
 
 <h2 align="left">Connect With Me</h2>
 
 ###
+[![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://vimm0.github.io/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nepexgroup)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vimm0)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimm0/)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vimm0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/vimm0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> -->
-</div>
 
 ###
 
@@ -82,6 +80,21 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=vimm0" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=vimm0" height="150" alt="languages graph"  />
 </div>
+
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Ecommerce Application Part 1: Overview in Nuxtjs, PWA and django-rest-framework
+](https://www.youtube.com/watch?v=l6pq6PI9KOI)
+- [Accounting Application Part 1: Overview (Vuejs, django-rest-framework)](https://www.youtube.com/watch?v=ZojLpaANeLY)
+<!-- YOUTUBE:END -->
+
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Clean your archlinux](https://vimm0.github.io/linux,/unix/2022/02/27/clean-your-archlinux.html)
+- [Git Commands Cheatsheet](https://vimm0.github.io/git/2022/02/14/git-commands-cheatsheet.html)
+
+<!-- BLOG-POST-LIST:END -->
 
 [website]: [https://vimm0.github.io/](https://vimm0.github.io/)
 [twitter]: [https://twitter.com/vimm0](https://twitter.com/vimm0)
