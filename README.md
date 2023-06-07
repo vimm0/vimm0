@@ -23,7 +23,7 @@
 <p align="left">Full Stack Developer | Pythonista | Programmer | Tech Enthusiast | Learner | Linux Nerd </p>
 
 ## 👷 Currently working on
-  - [Web to Desktop](https://github.com/vimm0/web-desktop)
+  - [Django web to Desktop in Electron](https://github.com/vimm0/web-desktop)
 
 ###
 
