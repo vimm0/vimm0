@@ -92,7 +92,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean your archlinux](https://vimm0.github.io/linux,/unix/2022/02/27/clean-your-archlinux.html)
+- [Clean your archlinux](https://vimm0.github.io/linux/unix/2022/02/27/clean-your-archlinux.html)
 - [Git Commands Cheatsheet](https://vimm0.github.io/git/2022/02/14/git-commands-cheatsheet.html)
 
 <!-- BLOG-POST-LIST:END -->
