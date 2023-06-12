@@ -24,7 +24,7 @@
 
 ## 👷 Currently working on
   - [Django web to Desktop in Electron](https://github.com/vimm0/web-desktop)
-  - [Nepali Date]()
+  - [Nepali Date](https://github.com/vimm0/nebsdate)
 
 ###
 
