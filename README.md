@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">a.k.a. python developer<br>Software developer from Nepal <br> https://vimm0.github.io/</p>
+<p align="center">a.k.a. python developer :snake:<br>Software developer from Nepal <br> https://vimm0.github.io/</p>
 
 ###
 
