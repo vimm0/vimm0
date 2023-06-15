@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">:pray: About me</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">:link: Connect With Me</h2>
 
 ###
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://vimm0.github.io/)
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">My Toolbox</h2>
+<h2 align="left">:computer: My Toolbox</h2>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">:chart_with_upwards_trend: Stats</h2>
 
 ###
 
