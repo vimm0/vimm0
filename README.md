@@ -29,7 +29,7 @@
 
 ## 👷 Currently working on
   - [Django web to Desktop in Electron](https://github.com/vimm0/web-desktop)
-  - [Nepali Date](https://github.com/vimm0/nebsdate)
+  - [Nepali Date in different technologies](https://github.com/vimm0/nebsdate)
 
 ###
 
