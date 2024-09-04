@@ -1,6 +1,6 @@
 <h1 align="center">From top of the world</h1>
 
-<div align="center"><img src="https://github.com/vimm0/vimm0.github.io/blob/master/static/img/mteverest.png" height=300></div>
+<div align="center"><img src="https://github.com/vimm0/vimm0.github.io/blob/master/static/img/mteverest.png" height=200></div>
 <h1 align="center">Hello World! 👋<br>I'm Sandesh Rana</h1>
 
 
